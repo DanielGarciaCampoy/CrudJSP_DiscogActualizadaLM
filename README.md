@@ -4,8 +4,14 @@
   - El código fuente del CRUD, que contiene 2 tablas, (álbumes y discográficas) (cada una con su clave primaria) cada una con sus opciones de listado, borrado, modificación y añadido, además de un login al principio
   - Archivo sql que respalda la base de datos
 
+<h2>Fuentes</h2>
+  Este proyecto de CRUD JSP ha sido realizado con lo siguiente:
+  
+  - <b>Bootstrap5:</b> todas las páginas contienen css y javascript de bootstrap5(https://getbootstrap.com/), además de los snippets sacados de la misma. Como se puede comprobar en los botones y la navbar típcos de bootstrap.
+  - <b>Propio:</b> además de bootstrap, algunas páginas contienen un poco de css de diseño propio.
+  - <b>Páginas de código prediseñado:</b> He usado código prediseñado (o plantilla) de codepen(https://codepen.io/search/pens?q=login) para la página principal de inicio de sesión y la de login, además de las de modificación y alertas de borrado y añadido, ya que son todas de la misma plantilla personalizada.  
 
-<h1>Capturas</h1>
+<h2>Capturas</h2>
 En las siguientes capturas se mostrará todas las funciones de la página:
 
 1. Login: hay dos casillas: de usuario y contraseña
