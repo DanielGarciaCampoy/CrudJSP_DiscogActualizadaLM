@@ -1,5 +1,4 @@
 # CrudJSP_Discográfica actualizada para LM
-Este repositorio contiene lo siguiente:
 
   Este repositorio contiene lo siguiente:
   - El código fuente del CRUD, que contiene 2 tablas, (álbumes y discográficas) (cada una con su clave primaria) cada una con sus opciones de listado, borrado, modificación y añadido, además de un login al principio
