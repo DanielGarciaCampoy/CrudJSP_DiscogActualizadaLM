@@ -12,7 +12,10 @@ En las siguientes capturas se mostrará todas las funciones de la página:
 1.1. El usuario y contraseña del login es admin (admin admin), pero si pones usuario o contraseña incorrectos ocurrirá lo siguiente: 
 ![1_1](https://user-images.githubusercontent.com/72436388/155396173-9d41b451-e16c-415d-8f65-b0c1332d0720.PNG)
 
-2. Si lo introduces correctamente, te lleva a la siguiente página; la lista de álbumes con todos sus atributos (Codigo de album, nombre de album, artista, y año de publicación), con las funciones de borrar y modificar para cada línea, además de un formulario para añadir álbumes, arriba se encuentra una navbar con la función de cerrar sesión (que devuelve al login inicial) y dos enlaces para elegir entre ver la lista de álbumes o discográficas:
+  - Si lo haces correctamente te llevará a la siguiente página: en la que te saludará según tu nombre de usuario y te permitirá ir directamente a la lista de álbumes o discográficas, o bien cerrar sesión directamente:
+  ![ultima](https://user-images.githubusercontent.com/72436388/158382096-fc4a02d7-1ad9-4f0e-aa1c-e42019005654.PNG)
+
+2. La lista de álbumes con todos sus atributos (Codigo de album, nombre de album, artista, y año de publicación), con las funciones de borrar y modificar para cada línea, además de un formulario para añadir álbumes, arriba se encuentra una navbar con la función de cerrar sesión (que devuelve al login inicial) y dos enlaces para elegir entre ver la lista de álbumes o discográficas:
 ![2](https://user-images.githubusercontent.com/72436388/155396789-21042518-e531-4a0f-955e-09e43405eaa9.PNG)
 
 2.2. Lista discográficas: esta es la lista de discográficas, todo funciona igual que con la lista de álbumes
@@ -43,4 +46,3 @@ En las siguientes capturas se mostrará todas las funciones de la página:
   ![repetido1](https://user-images.githubusercontent.com/72436388/155399774-b6f5aea5-0c2f-4e3f-8f6a-d9ce7f0a4eb0.PNG)
   ![repetido2](https://user-images.githubusercontent.com/72436388/155399784-aae02485-e6f1-4a5c-b69d-0d6263c4bfe6.PNG)
   (Detecta que se ha repetido y no lo sube)
-  
